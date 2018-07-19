@@ -58,7 +58,9 @@ header.startup h1 {
 }
 .form-row{
   background-color: #c5c5c5;
+  max-width: 800px;
 }
 .form-group{
   background-color: #c5c5c5;
+  max-width: 795px;
 }
